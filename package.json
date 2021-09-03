@@ -1,0 +1,15 @@
+{
+  "name": "gqs-website",
+  "version": "1.0.0",
+  "description": "Global Quality Systems Training Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "restedwickeddev@gqs-server"
+  },
+  "author": "restedwickeddev",
+  "license": "MIT"
+}
