@@ -139,7 +139,7 @@ cython_debug/
 
 # Node
 # dependencies
-gqs/frontend/node_modules/
+node_modules/
 /.pnp
 .pnp.js
 
